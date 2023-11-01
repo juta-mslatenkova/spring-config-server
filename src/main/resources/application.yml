@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/juta-mslatenkova/cloud-config-properties/
+server:
+  port: 8888
